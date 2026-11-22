@@ -1,6 +1,6 @@
 # Programming in Java – Assignment 3 (CO3)
-Student A: __________ Register No.: __________
-Student B: __________ Register No.: __________
+Student A: NEELAM NANDINI Register No.: 192472277
+
 Java version: Java 17+
 
 Each Task01–Task07 folder is an independent Java project with source code, sample-input, sample-output and output-screenshots folders.
