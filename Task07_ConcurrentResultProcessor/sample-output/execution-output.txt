@@ -1,0 +1,4 @@
+Pool=1 success=0 failures=11 elapsed=4924758 ns
+Pool=2 success=0 failures=11 elapsed=2640768 ns
+Pool=4 success=0 failures=11 elapsed=1638559 ns
+Pool=8 success=0 failures=11 elapsed=2448368 ns

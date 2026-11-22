@@ -1,0 +1,5 @@
+Store 1 sales: 1200
+Store 1 sales: 850
+Store 2 sales: 975
+Store 2 sales: 1400
+

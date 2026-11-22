@@ -1,0 +1,14 @@
+Task01_ATMExceptionHandling: OK
+
+Task02_ExamPortalExceptions: OK
+
+Task03_ResourceSafety: OK
+
+Task04_ThreadLifecycle: OK
+
+Task05_CinemaSeatBooking: OK
+
+Task06_DeadlockAndTokenCounter: OK
+
+Task07_ConcurrentResultProcessor: OK
+

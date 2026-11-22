@@ -1,0 +1,2 @@
+Account: Amount: Withdrawal successful: ACC1001 amount=500.0
+ATM session closed (finally executed).
